@@ -1,4 +1,4 @@
-OCaml interface to Coz causal profiler.
+OCaml interface to [Coz](https://github.com/plasma-umass/coz) causal profiler.
 
 First, build everything (the base compiler and all programm
 dependencies) with `-gdwarf-3`:
